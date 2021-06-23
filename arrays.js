@@ -59,6 +59,5 @@ function bigOrSmall(arr){
   }
   return answers
 } 
-  let arrayEvaluator = bigOrSmall(bigOrSmallArray)
-  console.log(arrayEvaluator)
+ 
 }
